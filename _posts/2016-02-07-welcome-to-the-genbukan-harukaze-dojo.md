@@ -6,23 +6,25 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'A Dojo dedicated to propagating the secrets of the Ancient Arts of Ninpo, Ninjutsu, Jujutsu, Taijiquan, Baguazhang, Qigong, Pranayama & Yoga. '
-datePublished: '2016-02-07T03:54:41.477Z'
-dateModified: '2016-02-07T03:54:08.907Z'
+datePublished: '2016-02-07T04:18:01.643Z'
+dateModified: '2016-02-07T04:17:56.307Z'
 title: Welcome to The Genbukan Harukaze Dojo
 author: []
+sourcePath: _posts/2016-02-07-welcome-to-the-genbukan-harukaze-dojo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-07-welcome-to-the-genbukan-harukaze-dojo.md
-published: true
 url: welcome-to-the-genbukan-harukaze-dojo/index.html
 _type: Article
 
 ---
-Following the ancient precepts of Ninpo, Ninjutsu, Jujutsu, Taijiquan (Tai Chi), Baguazhang, Qigong, Yoga and Amatsu Tatara, The Genbukan's Harukaze Dojo is dedicated to transforming the lives of its students and clients. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5e8fb10-05d1-4af0-be70-02fa8a0d20c0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5e8fb10-05d1-4af0-be70-02fa8a0d20c0.jpg)
+
+Following the ancient precepts of Ninpo, Ninjutsu, Jujutsu, Taijiquan (Tai Chi), Baguazhang, Qigong, Yoga and Amatsu Tatara, The Genbukan's Harukaze Dojo is dedicated to transforming the lives of its students and clients. 
 
 Through its unwavering commitment to deliver innovative education, solutions and tools, the Harukaze Dojo produces Remarkable Results and Invaluable Benefits as Quickly as Possible. 
 
@@ -31,11 +33,10 @@ I have been extremely fortunate in that my Instructors have opened many doors fo
 Starting with the demand to leave our mother's womb against our will, Life presents us with many choices not of our making. Unfortunately, much too often, they are not to our liking. 
 
 How we deal with these choices will be determined by what is in our Hearts and by how strong our Will Power is.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de11b925-e853-4790-9013-803d906b1a0a.jpg)
 
 In my Humble opinion, being a True Spiritual Warrior has nothing to do with Violence and Fighting. However, being a Spiritual Warrior may include having to do physical battle and to fight for What is Right. 
 
-Becoming a True Spiritual Warrior is about developing the Wisdom, Strength and Skills needed to let things unfold "The Way They Should." Not the way we would like; but, The Way according to The Principles Which Guide All of Creation. 
+Becoming a True Spiritual Warrior is about developing the Wisdom, Strength and Skills needed to let things unfold "The Way They Should." Not the way we would like; but, The Way according to The Principles Which Guide All of Creation. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de11b925-e853-4790-9013-803d906b1a0a.jpg)
 
 Of course, sometimes "Things" need our help in order to unfold "The Way They Should". 
 
