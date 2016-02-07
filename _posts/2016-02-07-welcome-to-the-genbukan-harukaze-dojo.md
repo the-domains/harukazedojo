@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'A Dojo dedicated to propagating the secrets of the Ancient Arts of Ninpo, Ninjutsu, Jujutsu, Taijiquan, Baguazhang, Qigong, Pranayama & Yoga. '
-datePublished: '2016-02-07T04:18:01.647Z'
+datePublished: '2016-02-07T04:18:01.726Z'
 dateModified: '2016-02-07T04:17:56.307Z'
 title: Welcome to The Genbukan Harukaze Dojo
 author: []
