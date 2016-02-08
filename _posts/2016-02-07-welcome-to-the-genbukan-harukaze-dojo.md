@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A Dojo dedicated to propagating the secrets of the Ancient Arts of Ninpo, Ninjutsu, Jujutsu, Taijiquan, Baguazhang, Qigong, Pranayama & Yoga. '
-datePublished: '2016-02-07T16:39:00.491Z'
-dateModified: '2016-02-07T16:38:32.673Z'
+datePublished: '2016-02-08T00:20:20.630Z'
+dateModified: '2016-02-08T00:19:40.775Z'
 title: Welcome to The Genbukan Harukaze Dojo
 author: []
 sourcePath: _posts/2016-02-07-welcome-to-the-genbukan-harukaze-dojo.md
@@ -45,6 +45,3 @@ Perhaps that is why we were born; and that is when knowledge of Martial Arts may
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f371a39a-0cf5-4212-844e-7dc62a48aea9.jpg)
 
 Gary Giamboi, Genbukan Kyoshi & Shibu-Cho
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f5c2275-c064-4724-bdf0-5aa8ea98d72f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27025c75-68bb-4311-a9ee-85f8a752347a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c179f369-ed17-4506-b38f-7bd665fb4fea.jpg)
