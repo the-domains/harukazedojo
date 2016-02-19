@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I am one of Soke Tanemura's personal students. In 1988, I met and began to study Ninpo, Jujutsu and Qigong with Soke ( Grandmaster) Shoto Tanemura. From 1992 to"
-datePublished: '2016-02-18T18:04:48.295Z'
-dateModified: '2016-02-18T18:04:38.538Z'
+datePublished: '2016-02-19T19:29:21.282Z'
+dateModified: '2016-02-18T18:06:21.413Z'
 author: []
 title: ''
 sourcePath: _posts/2016-02-17-i-am-one-of-soke-tanemuras-personal-students-in-1988-i-me.md
@@ -63,17 +63,11 @@ He has shown me I need to have the courage of a lion, the fierceness of a tiger 
 Swami Ji has given me permission to teach: 
 
 * His Hatha Yoga Routine  
-
 * His Rope Yoga 
-
 * His Hindu Wrestling Floor Exercises 
-
 * His Indian Club Exercises 
-
 * Under his guidance, I qualified for the E-500 hour   Registered Yoga Teacher Certification from the   Yoga Alliance 
-
 * In 2005, I trained in Bikram's Hot Yoga with Bill Arce   at the Y+ Yoga Center in Shanghai, China. 
-
 * In 2006, I received the Prestegious "Preferred Yoga   Teachers" Award from the Health & Yoga Site. 
 
 **Thai Yoga **
@@ -91,11 +85,8 @@ Their Optimum Performance Training is an Integrated Training Program designed to
 This is accomplished through Integrated Training; and includes: 
 
 * Integrated Flexibility Training
-
 * Integrated Cardiorespiratory Training
-
 * Neuromuscular Stabilization (balance),
-
 * Core Stabilization, Integrated Strength Training and Reactive Neuromuscular (power) Training. 
 
 I am also certified by the National Academy of Sports Medicne as a Senior Fitness Specialist.   
