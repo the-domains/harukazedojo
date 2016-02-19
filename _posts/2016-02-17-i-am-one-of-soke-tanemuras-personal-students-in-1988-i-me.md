@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I am one of Soke Tanemura's personal students. In 1988, I met and began to study Ninpo, Jujutsu and Qigong with Soke ( Grandmaster) Shoto Tanemura. From 1992 to"
-datePublished: '2016-02-19T19:29:21.282Z'
-dateModified: '2016-02-18T18:06:21.413Z'
+datePublished: '2016-02-19T19:50:34.536Z'
+dateModified: '2016-02-19T19:50:24.552Z'
 author: []
 title: ''
 sourcePath: _posts/2016-02-17-i-am-one-of-soke-tanemuras-personal-students-in-1988-i-me.md
@@ -103,9 +103,9 @@ In 2004, I started to train with Kettlebells and discovered they offered unique 
 
 I especially like their emphasise on one arm variations of the explosive Olympic lifts and on absorbing force by using the Taijiquan concept of coiling. 
 
-I am a certified Kettlebell instructor by Kettlebell Concepts.    
+I am certified as a Kettlebell instructor by Kettlebell Concepts.    
 
-Most importantly, all of my personal instructors believe in the Goodness that is the True Nature of a man's heart. 
+Most importantly, all of my personal instructors believe in the Goodness that is the True Nature of a man's Heart. 
 
 However, they also believe it takes hard work to hone ourselves into the instrument of goodness we were born on this Earth to be. 
 
