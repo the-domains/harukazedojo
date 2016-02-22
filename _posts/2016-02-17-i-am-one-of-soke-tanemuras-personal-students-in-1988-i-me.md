@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://genbukan.biz/bio_gary.html'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "I am one of Soke Tanemura's personal students. In 1988, I met and began to study Ninpo, Jujutsu and Qigong with Soke ( Grandmaster) Shoto Tanemura. From 1992 to"
-datePublished: '2016-02-19T19:50:34.536Z'
-dateModified: '2016-02-19T19:50:24.552Z'
+datePublished: '2016-02-22T22:02:21.810Z'
+dateModified: '2016-02-22T21:59:17.212Z'
 author: []
 title: ''
 sourcePath: _posts/2016-02-17-i-am-one-of-soke-tanemuras-personal-students-in-1988-i-me.md
@@ -19,6 +18,7 @@ publisher:
   domain: genbukan.biz
   url: null
   favicon: null
+url: i-am-one-of-soke-tanemuras-personal-students-in-1988-i-me/index.html
 _context: 'http://schema.org'
 _type: Article
 
