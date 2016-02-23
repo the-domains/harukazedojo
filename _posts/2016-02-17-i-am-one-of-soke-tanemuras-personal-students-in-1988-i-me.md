@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I am one of Soke Tanemura's personal students. In 1988, I met and began to study Ninpo, Jujutsu and Qigong with Soke ( Grandmaster) Shoto Tanemura. From 1992 to"
-datePublished: '2016-02-23T22:34:40.698Z'
-dateModified: '2016-02-23T22:21:08.500Z'
+datePublished: '2016-02-23T23:24:34.223Z'
+dateModified: '2016-02-23T23:24:13.816Z'
 author: []
 title: Gary Giamboi Kyoshi
 sourcePath: _posts/2016-02-17-i-am-one-of-soke-tanemuras-personal-students-in-1988-i-me.md
@@ -53,6 +53,7 @@ In 1991, I was extremely fortunate to have received permission from Tanemura Sen
 In 2007, I was certified as a Level 4 (Master Level) Qigong Instructor by the National Qigong Association. In order to enhance my knowledge of Anatomy, Traditional Chinese Medical Theory and Medical Qigong, I studied Shiatsu with Ohashi Sensei; and, in 1997, I successfully completed The Advanced Program of Ohashiatsu.   
 
 **Yoga **
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1fd4811-441d-48c3-91e9-33b1b4007320.jpg)
 
 After studying parts of Yoga for 25 years, in 1998 I was again blessed to find Yogiraj Swami Bua, Maharaj of Hatha Yoga. 
 
@@ -116,7 +117,3 @@ My mission and the objectives of my instructors is to give my students the tools
 Very Sincerely Yours, 
 
 Gary Giamboi, Kyoshi, Shibu-Cho, Sifu, E-500 RYT, CPT
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ef47437-ba9d-4b7a-ae46-1cddb424721f.gif)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1fd4811-441d-48c3-91e9-33b1b4007320.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f55da02-a9a0-4f9e-8898-b52152db1bc1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16c709a3-06c2-46f5-aa80-477690439323.jpg)
