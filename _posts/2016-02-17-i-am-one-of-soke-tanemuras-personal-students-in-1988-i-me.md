@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I am one of Soke Tanemura's personal students. In 1988, I met and began to study Ninpo, Jujutsu and Qigong with Soke ( Grandmaster) Shoto Tanemura. From 1992 to"
-datePublished: '2016-02-22T22:16:14.906Z'
-dateModified: '2016-02-22T22:14:56.411Z'
+datePublished: '2016-02-23T02:01:11.664Z'
+dateModified: '2016-02-23T01:53:35.577Z'
 author: []
 title: Gary Giamboi Kyoshi
 sourcePath: _posts/2016-02-17-i-am-one-of-soke-tanemuras-personal-students-in-1988-i-me.md
