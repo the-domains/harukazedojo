@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I am one of Soke Tanemura's personal students. In 1988, I met and began to study Ninpo, Jujutsu and Qigong with Soke ( Grandmaster) Shoto Tanemura. From 1992 to"
-datePublished: '2016-02-23T02:01:11.664Z'
-dateModified: '2016-02-23T01:53:35.577Z'
+datePublished: '2016-02-23T22:34:40.698Z'
+dateModified: '2016-02-23T22:21:08.500Z'
 author: []
 title: Gary Giamboi Kyoshi
 sourcePath: _posts/2016-02-17-i-am-one-of-soke-tanemuras-personal-students-in-1988-i-me.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-I am one of Soke Tanemura's personal students. In 1988, I met and began to study Ninpo, Jujutsu and Qigong with Soke ( Grandmaster) Shoto Tanemura. 
+I am one of Soke Tanemura's personal students. In 1988, I met and began to study Ninpo, Jujutsu and Qigong with Soke ( Grandmaster) Shoto Tanemura. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae150297-bf1c-4489-9f61-b62686c91968.JPG)
 
 From 1992 to 1995, with Soke's direct permission, I studied under Ron Tosen Shihan (Master) and Shibu-cho of the Genbukan Tokyo Shibu Dojo. I studied under Ron Shihan until my Sandan in Ninpo Taijutsu. And just as Soke intended, Ron Shihan was extremely influential in my development. 
 
@@ -116,3 +116,7 @@ My mission and the objectives of my instructors is to give my students the tools
 Very Sincerely Yours, 
 
 Gary Giamboi, Kyoshi, Shibu-Cho, Sifu, E-500 RYT, CPT
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ef47437-ba9d-4b7a-ae46-1cddb424721f.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1fd4811-441d-48c3-91e9-33b1b4007320.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f55da02-a9a0-4f9e-8898-b52152db1bc1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16c709a3-06c2-46f5-aa80-477690439323.jpg)
