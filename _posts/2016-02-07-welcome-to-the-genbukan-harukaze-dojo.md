@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Following the ancient precepts of Ninpo, Ninjutsu, Jujutsu, Taijiquan (Tai Chi), Baguazhang, Qigong, Yoga and Amatsu Tatara, The Genbukan's Harukaze Dojo is dedicated to transforming the lives of its students and clients.\_"
-datePublished: '2016-03-31T20:10:56.056Z'
-dateModified: '2016-03-31T20:10:46.238Z'
+datePublished: '2016-03-31T20:15:05.661Z'
+dateModified: '2016-03-31T20:15:00.977Z'
 title: Welcome to The Genbukan Harukaze Dojo
 author: []
 sourcePath: _posts/2016-02-07-welcome-to-the-genbukan-harukaze-dojo.md
