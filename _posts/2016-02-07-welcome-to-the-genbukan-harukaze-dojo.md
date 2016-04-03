@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Following the ancient precepts of Ninpo, Ninjutsu, Jujutsu, Taijiquan (Tai Chi), Baguazhang, Qigong, Yoga and Amatsu Tatara, The Genbukan's Harukaze Dojo is dedicated to transforming the lives of its students and clients.\_"
-datePublished: '2016-03-31T20:15:05.661Z'
-dateModified: '2016-03-31T20:15:00.977Z'
+datePublished: '2016-04-03T22:09:37.624Z'
+dateModified: '2016-04-03T22:08:06.706Z'
 title: Welcome to The Genbukan Harukaze Dojo
 author: []
 sourcePath: _posts/2016-02-07-welcome-to-the-genbukan-harukaze-dojo.md
@@ -33,7 +33,7 @@ I have been extremely fortunate in that my Instructors have opened many doors fo
 Starting with the demand to leave our mother's womb against our will, Life presents us with many choices not of our making. Unfortunately, much too often, they are not to our liking. 
 
 How we deal with these choices will be determined by what is in our Hearts and by how strong our Will Power is.
-![Guarding The Cave  of Your Heart](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82c050717ee40c49a79f8bc459895206ac9900a6.jpg)
+![Guarding The Cave  of Your Heart](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b34063e140cb0e387d87231251def70353e58c0.jpg)
 
 In my Humble opinion, being a True Spiritual Warrior has nothing to do with Violence and Fighting. However, being a Spiritual Warrior may include having to do physical battle and to fight for What is Right. 
 
