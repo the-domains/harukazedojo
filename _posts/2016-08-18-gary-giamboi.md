@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T01:03:42.687Z'
+datePublished: '2016-08-30T01:05:09.862Z'
 sourcePath: _posts/2016-08-18-gary-giamboi.md
 inFeed: true
 isBasedOnUrl: 'http://genbukan.biz/bio_gary.html'
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-30T01:03:42.159Z'
+dateModified: '2016-08-30T01:05:09.324Z'
 title: ''
 publisher: {}
 description: 'Gary Giamboi:'
@@ -89,3 +89,11 @@ Having trained in and having personally used for over 30 years the principles wh
 **Kettlebells:**
 
 In 2004, I started to train with Kettlebells and discovered they offered unique training exercises that were,in many cases, unique to Kettlebells. I especially like their emphasise on one arm variations of the explosive Olympic lifts and on absorbing force by using the Taijiquan concept of coiling. I am a certified Kettlebell instructor by Kettlebell Concepts.
+
+Most importantly, all of my personal instructors believe in the Goodness that is the True Nature of a man's Heart.
+
+However, they also believe it takes hard work to hone ourselves into the instrument of goodness we were born on this Earth to be.
+
+I intend to keep their traditions alive by giving my students the knowledge they deserve, the discipline they need and the help they require.
+
+My mission and the objectives of my instructors is to give my students the tools necessary to accomplish their goals.
