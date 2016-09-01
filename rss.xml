@@ -4,21 +4,21 @@
         <description><![CDATA[The Genbukan Harukaze Dojo]]></description>
         <link>https://thegrid.ai/harukazedojo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 00:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 01:03:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/harukazedojo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gary Giamboi]]></title>
+            <description><![CDATA[<p>Gary Giamboi:</p>]]></description>
+            <link>http://genbukan.biz/bio_gary.html</link>
+            <guid isPermaLink="false">f82ab5b9-a2a5-40bf-b4ec-16e916b2fc71</guid>
+            <pubDate>Tue, 30 Aug 2016 01:03:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to The Genbukan Harukaze Dojo]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e824295c51482d2e310dd221573125a5e0747c2.jpg" alt="The Way">]]></description>
             <link>https://thegrid.ai/harukazedojo/welcome-to-the-genbukan-harukaze-dojo/index.html</link>
             <guid isPermaLink="false">391551ae-cbdd-452d-8287-d5f18dde60ed</guid>
             <pubDate>Tue, 30 Aug 2016 00:59:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gary Giamboi]]></title>
-            <description><![CDATA[<p>I am one of Soke Tanemura's personal students. </p>]]></description>
-            <link>http://genbukan.biz/bio_gary.html</link>
-            <guid isPermaLink="false">f82ab5b9-a2a5-40bf-b4ec-16e916b2fc71</guid>
-            <pubDate>Thu, 18 Aug 2016 00:19:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
