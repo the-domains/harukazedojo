@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T00:59:43.681Z'
+datePublished: '2016-08-30T01:06:38.774Z'
 sourcePath: _posts/2016-02-07-welcome-to-the-genbukan-harukaze-dojo.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-30T00:59:43.211Z'
+dateModified: '2016-08-30T01:06:38.309Z'
 title: ''
 publisher: {}
 description: >-
@@ -44,5 +44,7 @@ Perhaps that is why we were born; and that is when knowledge of Martial Arts may
 ![Be as Still as calm water](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9e5c1adb344b8c7259b3fe1454d435e6eff462c.jpg)
 
 In my Humble opinion, being a True Spiritual Warrior has nothing to do with Violence and Fighting. However, being a Spiritual Warrior may include having to do physical battle and to fight for What is Right.
+
+The only true violence is to act against The Way Things Truly Are.
 
 Gary Giamboi, Genbukan Kyoshi & Shibu-Cho
